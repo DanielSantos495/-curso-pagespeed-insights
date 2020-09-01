@@ -41,7 +41,7 @@ celeste= #026fff
 {
     content: "\e900";
 }
-body 
+body
 {
     font-family: 'Source Sans Pro', system-ui;
     margin: 0;
@@ -56,7 +56,7 @@ h1
     font-size: 40px;
     line-height: 1.5;
     letter-spacing: -.2px;
-    color: rgb(80, 70, 70);
+    color: rgb(255, 255, 255);
 		margin: 0;
 		max-width: 500px;
     /* text-transform: lowercase; */ 
