@@ -43,12 +43,12 @@ celeste= #026fff
 }
 body 
 {
-    font-family: 'Source Sans Pro', Helvetica;
+    font-family: 'Source Sans Pro', system-ui;
     margin: 0;
 }
 h1, h2, h3, h4, h5, h6
 {
-    font-family: 'Fjalla One', Helvetica;
+    font-family: 'Fjalla One', system-ui;
     font-weight: normal;
 }
 h1
