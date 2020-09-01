@@ -56,8 +56,9 @@ h1
     font-size: 40px;
     line-height: 1.5;
     letter-spacing: -.2px;
-    color: white;
-    margin: 0;
+    color: rgb(80, 70, 70);
+		margin: 0;
+		max-width: 500px;
     /* text-transform: lowercase; */ 
 }
 h1 strong
